@@ -1,2 +1,4 @@
 Ipv4 address
 Tcp/Ip layer
+OSI Model
+Subnet masking
